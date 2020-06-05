@@ -9,8 +9,5 @@ namespace RealEstateOffice.Models
         public DbSet<Broker> Brokers { get; set; }
         public DbSet<Property> Properties { get; set; }
         public DbSet<Deal> Deals { get; set; }
-
-
-        pppp
     }
 }
