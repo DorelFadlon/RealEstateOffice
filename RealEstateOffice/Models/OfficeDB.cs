@@ -10,5 +10,7 @@ namespace RealEstateOffice.Models
         public DbSet<Property> Properties { get; set; }
         public DbSet<Deal> Deals { get; set; }
 
+
+        pppp
     }
 }
