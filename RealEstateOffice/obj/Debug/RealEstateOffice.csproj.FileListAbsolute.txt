@@ -69,8 +69,11 @@
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\System.Web.Helpers.xml
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\System.Web.Mvc.xml
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-\\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csprojAssemblyReference.cache
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.csproj.CopyComplete
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.dll
 \\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\obj\Debug\RealEstateOffice.pdb
+\\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+\\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+\\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+\\Mac\Home\Documents\College\B Year\Semester B\Web application development\פרוייקט\RealEstateOffice\RealEstateOffice\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
